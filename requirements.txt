@@ -1,0 +1,6 @@
+Django
+djangorestframework
+drf-yasg
+mysqlclient
+django-environ
+Pillow
